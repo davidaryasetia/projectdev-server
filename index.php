@@ -2,11 +2,11 @@
 <html>
 <head>
     <title>Dav's Server</title>
-    <link rel="stylesheet" href="" class="rel">
+    <link rel="stylesheet" href="style.css" class="rel">
 </head>
 <body>
     <div class="container">
-        <h2>Hello Welcome To David Infrastructure Server!!!</h2>
+        <h2>Welcome to David's Server Infrastructure !!</h2>
         <div class="stat-section">
             <h4>Server Statistics:</h4>
             <p><span>Server Time:</span> <?php echo date('Y-m-d H:i:s'); ?></p>
@@ -46,7 +46,7 @@
         </div>
     </div>
     <footer>
-        <p><span>Author By : David Aryasetia - Dav's Corp Company 2024</span></p>
+        <p><span>Created By David Aryasetia</span></p>
     </footer>
 </body>
 </html>

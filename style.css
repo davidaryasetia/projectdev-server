@@ -44,3 +44,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.stat-section .bar {
+    display: inline-block;
+    height: 10px;
+    background: #4CAF50;
+    margin-left: 10px;
+}
