@@ -11,8 +11,7 @@
         <h2>Welcome to David's Server Infrastructure !!</h2>
         <div class="stat-section">
             <h4>Server Statistics:</h4>
-            <p><span>Server Time:</span> <?php
-            // Check if running inside Docker by looking for /.dockerenv or cgroup info
+            <p><span>Server Running:</span> <?php
             $isDocker = false;
             if (file_exists('/.dockerenv')) {
                 $isDocker = true;
