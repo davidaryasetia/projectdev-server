@@ -4,6 +4,14 @@
 <head>
     <title>Dav's Server</title>
     <link rel="stylesheet" href="style.css" class="rel">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+        content="Hi!! My Name is David Aryasetia Febrian Susanto I'm a Backend Developer & Database Administration" />
+    <meta name="keywords" content="david, david aryasetia, david aryasetia febrian, david aryasetia febrian susanto" />
+    <meta name="author" content="david aryasetia febrian susanto" />
+    <link rel="stylesheet" href="/dist/css/final.css" />
 </head>
 
 <body>
